@@ -1,0 +1,816 @@
+{
+	"swing008_detect.json": [
+		{
+			"info": {
+				"image_name": "swing008_1.png",
+				"image_id": "1",
+				"person_count": 2,
+				"club_count": 2,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "1",
+				"person_bb": [
+					40,
+					128,
+					591,
+					230,
+					868,
+					142,
+					495,
+					186
+				],
+				"club_bb": [
+					471,
+					655,
+					35,
+					59,
+					958,
+					681,
+					35,
+					58
+				],
+				"ball_bb": [
+					488,
+					647,
+					17,
+					20,
+					1009,
+					675,
+					23,
+					22
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_49.png",
+				"image_id": "2",
+				"person_count": 2,
+				"club_count": 1,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "2",
+				"person_bb": [
+					39,
+					136,
+					583,
+					217,
+					836,
+					158,
+					490,
+					212
+				],
+				"club_bb": [
+					286,
+					429,
+					81,
+					94
+				],
+				"ball_bb": [
+					488,
+					645,
+					25,
+					23,
+					997,
+					685,
+					24,
+					24
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_62.png",
+				"image_id": "3",
+				"person_count": 2,
+				"club_count": 1,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "3",
+				"person_bb": [
+					44,
+					144,
+					575,
+					212,
+					789,
+					158,
+					498,
+					268
+				],
+				"club_bb": [
+					0,
+					74,
+					102,
+					68
+				],
+				"ball_bb": [
+					489,
+					647,
+					20,
+					19,
+					995,
+					687,
+					25,
+					27
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_77.png",
+				"image_id": "4",
+				"person_count": 2,
+				"club_count": 1,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "4",
+				"person_bb": [
+					46,
+					141,
+					578,
+					217,
+					784,
+					166,
+					487,
+					262
+				],
+				"club_bb": [
+					649,
+					81,
+					44,
+					54
+				],
+				"ball_bb": [
+					486,
+					646,
+					23,
+					25,
+					995,
+					689,
+					23,
+					28
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_88.png",
+				"image_id": "5",
+				"person_count": 2,
+				"club_count": 1,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "5",
+				"person_bb": [
+					46,
+					145,
+					574,
+					221,
+					800,
+					167,
+					485,
+					250
+				],
+				"club_bb": [
+					815,
+					21,
+					40,
+					54
+				],
+				"ball_bb": [
+					489,
+					646,
+					23,
+					22,
+					994,
+					689,
+					24,
+					28
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_104.png",
+				"image_id": "6",
+				"person_count": 2,
+				"club_count": 2,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "6",
+				"person_bb": [
+					44,
+					113,
+					606,
+					230,
+					824,
+					169,
+					488,
+					221
+				],
+				"club_bb": [
+					17,
+					0,
+					34,
+					57,
+					1015,
+					24,
+					37,
+					57
+				],
+				"ball_bb": [
+					489,
+					646,
+					23,
+					23,
+					994,
+					688,
+					27,
+					26
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_130.png",
+				"image_id": "7",
+				"person_count": 2,
+				"club_count": 2,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "7",
+				"person_bb": [
+					49,
+					119,
+					600,
+					229,
+					850,
+					166,
+					489,
+					201
+				],
+				"club_bb": [
+					114,
+					80,
+					47,
+					55,
+					1138,
+					77,
+					45,
+					48
+				],
+				"ball_bb": [
+					489,
+					646,
+					23,
+					24,
+					990,
+					688,
+					26,
+					29
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_142.png",
+				"image_id": "8",
+				"person_count": 2,
+				"club_count": 2,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "8",
+				"person_bb": [
+					60,
+					143,
+					576,
+					224,
+					834,
+					174,
+					481,
+					214
+				],
+				"club_bb": [
+					29,
+					8,
+					47,
+					64,
+					1059,
+					57,
+					41,
+					54
+				],
+				"ball_bb": [
+					490,
+					647,
+					23,
+					24,
+					991,
+					689,
+					26,
+					28
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_148.png",
+				"image_id": "9",
+				"person_count": 2,
+				"club_count": 1,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "9",
+				"person_bb": [
+					68,
+					154,
+					565,
+					215,
+					812,
+					173,
+					482,
+					236
+				],
+				"club_bb": [
+					948,
+					52,
+					40,
+					70
+				],
+				"ball_bb": [
+					490,
+					647,
+					22,
+					23,
+					992,
+					690,
+					24,
+					25
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_153.png",
+				"image_id": "10",
+				"person_count": 2,
+				"club_count": 1,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "10",
+				"person_bb": [
+					71,
+					156,
+					563,
+					210,
+					807,
+					172,
+					483,
+					244
+				],
+				"club_bb": [
+					806,
+					74,
+					43,
+					76
+				],
+				"ball_bb": [
+					489,
+					648,
+					24,
+					24,
+					991,
+					690,
+					24,
+					26
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_155.png",
+				"image_id": "11",
+				"person_count": 2,
+				"club_count": 1,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "11",
+				"person_bb": [
+					72,
+					156,
+					563,
+					212,
+					812,
+					172,
+					485,
+					241
+				],
+				"club_bb": [
+					718,
+					101,
+					57,
+					77
+				],
+				"ball_bb": [
+					992,
+					691,
+					23,
+					26,
+					490,
+					647,
+					23,
+					23
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_157.png",
+				"image_id": "12",
+				"person_count": 2,
+				"club_count": 2,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "12",
+				"person_bb": [
+					74,
+					155,
+					564,
+					206,
+					820,
+					171,
+					485,
+					232
+				],
+				"club_bb": [
+					0,
+					94,
+					119,
+					56,
+					638,
+					152,
+					78,
+					76
+				],
+				"ball_bb": [
+					490,
+					647,
+					23,
+					21,
+					990,
+					689,
+					27,
+					26
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_162.png",
+				"image_id": "13",
+				"person_count": 2,
+				"club_count": 1,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "13",
+				"person_bb": [
+					76,
+					146,
+					573,
+					214,
+					848,
+					165,
+					490,
+					198
+				],
+				"club_bb": [
+					437,
+					622,
+					50,
+					55
+				],
+				"ball_bb": [
+					490,
+					649,
+					21,
+					22,
+					991,
+					691,
+					23,
+					26
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_167.png",
+				"image_id": "14",
+				"person_count": 2,
+				"club_count": 2,
+				"ball_count": 2
+			}
+		},
+		{
+			"bb": {
+				"image_id": "14",
+				"person_bb": [
+					75,
+					145,
+					574,
+					198,
+					848,
+					164,
+					492,
+					194
+				],
+				"club_bb": [
+					469,
+					639,
+					41,
+					62,
+					891,
+					676,
+					37,
+					56
+				],
+				"ball_bb": [
+					989,
+					690,
+					24,
+					28,
+					475,
+					614,
+					28,
+					29
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_180.png",
+				"image_id": "15",
+				"person_count": 2,
+				"club_count": 1,
+				"ball_count": 1
+			}
+		},
+		{
+			"bb": {
+				"image_id": "15",
+				"person_bb": [
+					72,
+					129,
+					590,
+					195,
+					848,
+					164,
+					494,
+					275
+				],
+				"club_bb": [
+					58,
+					185,
+					47,
+					53
+				],
+				"ball_bb": [
+					384,
+					358,
+					21,
+					24
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_185.png",
+				"image_id": "16",
+				"person_count": 2,
+				"club_count": 1,
+				"ball_count": 1
+			}
+		},
+		{
+			"bb": {
+				"image_id": "16",
+				"person_bb": [
+					81,
+					133,
+					586,
+					181,
+					847,
+					158,
+					496,
+					247
+				],
+				"club_bb": [
+					1098,
+					89,
+					59,
+					75
+				],
+				"ball_bb": [
+					371,
+					323,
+					20,
+					19
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_200.png",
+				"image_id": "17",
+				"person_count": 2,
+				"club_count": 1,
+				"ball_count": 1
+			}
+		},
+		{
+			"bb": {
+				"image_id": "17",
+				"person_bb": [
+					68,
+					138,
+					581,
+					193,
+					818,
+					166,
+					489,
+					235
+				],
+				"club_bb": [
+					671,
+					69,
+					48,
+					60
+				],
+				"ball_bb": [
+					354,
+					276,
+					13,
+					14
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_214.png",
+				"image_id": "18",
+				"person_count": 2,
+				"club_count": 2,
+				"ball_count": 1
+			}
+		},
+		{
+			"bb": {
+				"image_id": "18",
+				"person_bb": [
+					53,
+					153,
+					566,
+					245,
+					851,
+					162,
+					493,
+					199
+				],
+				"club_bb": [
+					390,
+					186,
+					73,
+					63,
+					737,
+					241,
+					62,
+					69
+				],
+				"ball_bb": [
+					343,
+					249,
+					15,
+					16
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_221.png",
+				"image_id": "19",
+				"person_count": 2,
+				"club_count": 2,
+				"ball_count": 1
+			}
+		},
+		{
+			"bb": {
+				"image_id": "19",
+				"person_bb": [
+					55,
+					148,
+					571,
+					243,
+					853,
+					162,
+					492,
+					203
+				],
+				"club_bb": [
+					458,
+					262,
+					60,
+					43,
+					886,
+					282,
+					58,
+					68
+				],
+				"ball_bb": [
+					339,
+					242,
+					13,
+					14
+				]
+			}
+		},
+		{
+			"info": {
+				"image_name": "swing008_277.png",
+				"image_id": "20",
+				"person_count": 2,
+				"club_count": 2,
+				"ball_count": 1
+			}
+		},
+		{
+			"bb": {
+				"image_id": "20",
+				"person_bb": [
+					74,
+					162,
+					557,
+					176,
+					855,
+					161,
+					494,
+					196
+				],
+				"club_bb": [
+					328,
+					275,
+					42,
+					44,
+					1228,
+					187,
+					49,
+					46
+				],
+				"ball_bb": [
+					324,
+					212,
+					15,
+					16
+				]
+			}
+		}
+	]
+}
